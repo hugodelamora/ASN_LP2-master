@@ -1,0 +1,2 @@
+asn2@asn2:~/NetBeansProjects/ASN_LP2-master/dist$ /opt/hadoop-2.7.3/bin/hadoop jar ASN_HW2.jar ../db ../output
+
